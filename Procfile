@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run consulta_estoque_sdu.py
+web: sh setup.sh && streamlit run consulta_estoque_santosdumont.py
