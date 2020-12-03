@@ -3,10 +3,10 @@ import streamlit as st
 
 # Titulo
 st.title('Consulta Estoque SANTOS DUMONT')
-st.header('Estoques em 13-11-2020')
+st.header('Estoques em 02-12-2020')
 
 
-arquivo = 'sdu13112020.csv'
+arquivo = 'sdu02122020.csv'
 
 @st.cache
 def get_data():
